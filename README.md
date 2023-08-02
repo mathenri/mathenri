@@ -1,2 +1,2 @@
-- Backend developer at Readly
+- Data Engineer at Södra
 - Education: Software Engineering at Chalmer University of Technology
